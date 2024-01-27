@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "5d587889d7a83c11",
-        "type": "tabs",
+        "id": "73c2112a8692087d",
+        "type": "split",
         "children": [
           {
-            "id": "8e585393e3c59f84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ref.md",
-                "mode": "source",
-                "source": false
+            "id": "1a00b59a92907df7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "49248920d3738703",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ref.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "2a4ec7f4f0767d67",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c42267ef6227f5b6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "1.26 Scratch.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9309136196035572",
@@ -146,9 +172,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e585393e3c59f84",
+  "active": "49248920d3738703",
   "lastOpenFiles": [
+    "1.26 Scratch.md",
     "Ref.md",
+    "1.25 scratch.md",
+    "1.22 scratch.md",
+    "1.23 scratch.md",
+    "Triangle Canvas.canvas",
+    "Scrt.md",
+    "pictures/3060dg Triangle.png",
+    "pictures/45dg Triangle.png",
+    "pictures",
     "Welcome.md"
   ]
 }

@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"d6f073c48dd7c96e","type":"file","file":"pictures/45dg Triangle.png","x":-126,"y":134,"width":400,"height":400},
+		{"id":"91c601bef1aad634","x":274,"y":134,"width":400,"height":400,"type":"file","file":"pictures/3060dg Triangle.png"}
+	],
+	"edges":[]
+}

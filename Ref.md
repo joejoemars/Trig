@@ -11,9 +11,9 @@
 > Quad 3: $\tan \cot$
 > Quad 4: $\cos \sec$
 ### Exact Trig Values
-> $30\degree \sin=\frac{1}{2}, \cos=\frac{\sqrt{3}}{2}$
-> $45\degree \sin=\frac{\sqrt{2}}{2}, \cos=\frac{\sqrt{2}}{2}$
-> $60\degree \sin=\frac{\sqrt{3}}{2}, \cos=\frac{1}{2}$
+> $30\degree \sin=\frac{1}{2}, \cos=\frac{\sqrt{3}}{2}, \tan=\frac{\sqrt{3}}{3}$
+> $45\degree \sin=\frac{\sqrt{2}}{2}, \cos=\frac{\sqrt{2}}{2}, \tan=1$
+> $60\degree \sin=\frac{\sqrt{3}}{2}, \cos=\frac{1}{2}, \tan=\sqrt{3}$
 ### Triangles
 > $45\degree 45\degree 90\degree$ Right Triangle
 >> $\sin{45}=\frac{1}{\sqrt{2}}=\frac{\sqrt2}{2}$

@@ -21,24 +21,6 @@
           }
         ],
         "stacked": true
-      },
-      {
-        "id": "cf709e05ae5f0d45",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4e1ba06315b1393f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1.31 Scratch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"

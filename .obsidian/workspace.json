@@ -4,47 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "73c2112a8692087d",
-        "type": "split",
+        "id": "1a00b59a92907df7",
+        "type": "tabs",
         "children": [
           {
-            "id": "1a00b59a92907df7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "49248920d3738703",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Ref.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "49248920d3738703",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ref.md",
+                "mode": "source",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "2a4ec7f4f0767d67",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c42267ef6227f5b6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "1.26 Scratch.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "stacked": true
+      },
+      {
+        "id": "cf709e05ae5f0d45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e1ba06315b1393f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.31 Scratch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,7 +168,7 @@
   },
   "active": "49248920d3738703",
   "lastOpenFiles": [
-    "1.26 Scratch.md",
+    "1.31 Scratch.md",
     "Ref.md",
     "1.25 scratch.md",
     "1.22 scratch.md",

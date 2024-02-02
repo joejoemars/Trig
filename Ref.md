@@ -31,8 +31,19 @@
 > $rad\times\frac{180}{\pi}$
 #### Degrees to Radians
 > $deg\times\frac{\pi}{180}$
+#### Unit Circle Trig Functions
+    Theta may be represented as t and vice versa
+> $\sin{\theta}=\frac{b}{r}$
+> $\cos{\theta}=\frac{a}{r}$
+> $\tan{\theta}=\frac{b}{a}$
 
 Standard position
 	Vertex is at origin of a rectangular coord. system and initial side is on the pos. x-axis
 Central Angle
 	Positive angle with vertex at the center of a circle
+Trig Function Periods
+	 $\sin\cos\sec\csc$ $2\pi$ 
+	 $\tan\cot$ $\pi$
+
+Even - Symmetric to the y-axis
+Odd - Symmetric to the origin

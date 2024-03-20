@@ -4,23 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "1a00b59a92907df7",
-        "type": "tabs",
+        "id": "e4697288a7179333",
+        "type": "split",
         "children": [
           {
-            "id": "49248920d3738703",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ref.md",
-                "mode": "source",
-                "source": false
+            "id": "8a8bfed9b05a3ad5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f3aa1f71331cce9e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Refs/Sum and Difference Formulas.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "529c3c5c73074270",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Refs/Double and Half Angle.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "ab9890dc3c327ff6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a132095a5407a90e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3.19 Scratch.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
         ],
-        "stacked": true
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -87,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ref.md",
+                "file": "3.19 Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ref.md",
+                "file": "3.19 Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ref.md"
+                "file": "3.19 Scratch.md"
               }
             }
           }
@@ -148,18 +184,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49248920d3738703",
+  "active": "a132095a5407a90e",
   "lastOpenFiles": [
-    "1.31 Scratch.md",
-    "Ref.md",
+    "old file .git/logs/refs/remotes/origin/main",
+    "old file .git/logs/refs/remotes/origin",
+    "old file .git/refs/remotes/origin/main",
+    "old file .git/logs/refs/heads/main",
+    "old file .git/refs/remotes/origin",
+    "old file .git/refs/heads/main",
+    "old file .git/objects/fd/497971dc200c95946f732f39ef439e337b1c4a",
+    "old file .git/objects/fb/2cda62f660928ee0b58629f060185e5422402a",
+    "old file .git/objects/f7/f5886db41840584dfd1139a477fe1c1eeacabf",
+    "old file .git/objects/f4/e0c1a7c0acc04f1de4c171e70a75f1a46b35e3",
+    "old file .git/objects/f3/2d9d173613c557a906d091fdd2cf7f325fbd63",
+    "Refs/Sum and Difference Formulas.md",
+    "Refs/Double and Half Angle.md",
+    "3.19 Scratch.md",
+    "Refs/Identities.md",
+    "3.7 scratch.md",
+    "Refs/Ref.md",
+    "Trig Example.md",
+    "3.13 scratch.md",
     "1.25 scratch.md",
-    "1.22 scratch.md",
-    "1.23 scratch.md",
+    "3.15 scratch.md",
+    "1.31 scratch.md",
+    "3.11 scratch.md",
+    "Bellringers/3.5.24.md",
     "Triangle Canvas.canvas",
     "Scrt.md",
+    "scratch 2.23.md",
     "pictures/3060dg Triangle.png",
     "pictures/45dg Triangle.png",
-    "pictures",
+    "1.23 scratch.md",
+    "math yeahuhyeah.md",
+    "2.9 scratch.md",
+    "1.22 scratch.md",
     "Welcome.md"
   ]
 }

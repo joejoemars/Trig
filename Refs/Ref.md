@@ -14,11 +14,6 @@
 > $30\degree \sin=\frac{1}{2}, \cos=\frac{\sqrt{3}}{2}, \tan=\frac{\sqrt{3}}{3}$
 > $45\degree \sin=\frac{\sqrt{2}}{2}, \cos=\frac{\sqrt{2}}{2}, \tan=1$
 > $60\degree \sin=\frac{\sqrt{3}}{2}, \cos=\frac{1}{2}, \tan=\sqrt{3}$
-### Triangles
-> $45\degree 45\degree 90\degree$ Right Triangle
->> $\sin{45}=\frac{1}{\sqrt{2}}=\frac{\sqrt2}{2}$
->> $\cos{45}=\frac{1}{\sqrt{2}}=\frac{\sqrt2}{2}$
->> $\tan{45}=\frac{1}{\sqrt{1}}=1$
 ### Degrees to radians chart
 > $30^\circ=\frac{\pi}{6}$
 > $45^\circ=\frac{\pi}{4}$
@@ -36,6 +31,8 @@
 > $\sin{\theta}=\frac{b}{r}$
 > $\cos{\theta}=\frac{a}{r}$
 > $\tan{\theta}=\frac{b}{a}$
+#### Phase Shift, Curve Fitting
+> $\frac{\phi}{\omega}$ is called the phase shift ($A\sin{\omega x - \phi}$, remember that $\phi$ is subtracted, so use it's opposite)
 
 Standard position
 	Vertex is at origin of a rectangular coord. system and initial side is on the pos. x-axis
@@ -47,3 +44,7 @@ Trig Function Periods
 
 Even - Symmetric to the y-axis
 Odd - Symmetric to the origin
+
+You need more than 2 data points to find a sine function of best fit.
+#### General Formula (?)
+> $\frac{\pi}{2}+2k\pi$
